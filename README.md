@@ -35,4 +35,14 @@ const Alexandrep1 = {
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+  ## Vamos nos Conectar
+
+<p>
+  <a href="mailto:alexandrepinto199014@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="linkedin.com/in/alexandre-pinto-b0674a274">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
