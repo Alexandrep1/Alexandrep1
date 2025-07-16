@@ -10,8 +10,6 @@ const Alexandrep1 = {
 
 ---
 
- Minha Stack Tecnológica
-
 <div align="center">
   
   ### Frontend
