@@ -1,12 +1,3 @@
-## 👨‍💻 Sobre Mim
-
-```ts
-const Alexandrep1 = {
-  nome: "Alexandre Pinto",
-  idade: 24,
-  localização: "Santa Catarina, Brazil",
-};
-```
 
 ---
 
