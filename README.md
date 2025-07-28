@@ -21,7 +21,7 @@
 
   ## Vamos nos Conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](alexandre-pinto-b0674a274/overlay/contact-info/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alexandre-pinto-b0674a274/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alexandrepinto199014@gmail.com)
 
 
